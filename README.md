@@ -8,7 +8,7 @@ This is a simple Python project that generates a strong random password.
 - Simple and beginner-friendly
 
 ## How to Run
-1. Install Python
+1. Install VS Code
 2. Open terminal in project folder
 3. Run:
    python password.py
