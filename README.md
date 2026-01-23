@@ -12,3 +12,4 @@ This is a simple Python project that generates a strong random password.
 2. Open terminal in project folder
 3. Run:
    python password.py
+   
